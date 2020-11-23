@@ -3,6 +3,9 @@ Password-Generator
 
 This website was designed to help me understand JavaScript. In this challenge I was tasked with creating the JavaScript code for a password generator. This project contains js,html and css.
 
+link:
+https://pilar122.github.io/random-password-generator-for-a-unique-password/
+
 acceptance criteria:
 
 GIVEN I need a new, secure password
